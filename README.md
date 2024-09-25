@@ -200,7 +200,3 @@
 **Express Intent in Division and Rounding**
 
 - Use functions that specify rounding behavior to avoid off-by-one errors.
-
----
-
-By adhering to these commandments, you will write code that is safer, more performant, and offers a better developer experience. Remember to prioritize clarity, simplicity, and consistency in all aspects of your coding practice.
